@@ -1,0 +1,22 @@
+
+.friendFinderTitle h1 {
+    text-align: center;
+    font-size: 70px;
+    color:#cf1b1b;
+    font-family: cursive;
+    font-weight: 100;
+}
+body {
+    background-image: url("../faded.jpg")
+}
+
+.jumbotron h1{
+    font-family: cursive;
+    color: red;
+
+}
+
+.btn {
+    color: white;
+    background-color: red:
+}
